@@ -81,7 +81,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <hr />
 
-# Contribution guidlines
+# Contribution guidelines
 
 * Before starting development, create a branch.
   * `git checkout -b <FTR|ENH|BUG-name>`
