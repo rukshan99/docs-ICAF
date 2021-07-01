@@ -44,7 +44,7 @@ To run the test cases use `npm test` in your terminal.
 
 ## React App
 
-The frontend of the system is based on React related technologies and it consumes the JSON based service endpoints of the REST API.
+The frontend of the system is based on React related technologies and it consumes JSON based service endpoints of the REST API.
 
 ### Getting started
 
