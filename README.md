@@ -44,7 +44,7 @@ To run the test cases use `npm test` in your terminal.
 
 ## React App
 
-The backend of the conference management tool is a RESTful API running JSON based web services, and implemented with Node.js and Express.js
+The frontend of the system is based on React related technologies and it consumes the JSON based service endpoints of the REST API.
 
 ### Getting started
 
