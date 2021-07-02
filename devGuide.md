@@ -6,7 +6,7 @@
 
 ## Rest API
 
-The backend of the conference management tool is a RESTful API running JSON based web services, and implemented with Node.js and Express.js
+The backend of the conference management tool is a RESTful API running JSON based web services, and implemented with Node.js and Express.js. [Visit the repository.](https://github.com/rukshan99/api-ICAF)
 
 ### Getting started
 
@@ -45,7 +45,7 @@ To run the test cases use `npm test` in your terminal.
 
 ## React App
 
-The frontend of the system is based on React related technologies and it consumes the JSON based service endpoints of the REST API.
+The frontend of the system is based on React related technologies and it consumes the JSON based service endpoints of the REST API. [Visit the repository.](https://github.com/rukshan99/app-ICAF)
 
 ### Getting started
 
