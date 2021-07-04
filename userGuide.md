@@ -6,7 +6,7 @@
 
 # Landing Page
 
-All the necessary details regarding the conference are available through the landing page.
+All the necessary details regarding the conference are available through the landing page. Including special dates, guest speakers, etc.
 
 ![](images/home.png ':size=700')
 
