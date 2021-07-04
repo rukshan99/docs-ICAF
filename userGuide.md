@@ -4,6 +4,12 @@
 **To get a more technical idea of the system use our [technical report](reports/technicalReport.pdf ':ignore'). Checkout our [developer guide](devGuide.md) if you're a developer.**
 <hr />
 
+# Landing Page
+
+All the necessary details regarding the conference are available through the landing page.
+
+![](images/home.png ':size=700')
+
 # Sign up
 
 A user who has not registered can register as either an attendee, a researcher or a workshop presenter via the sign up form. 
